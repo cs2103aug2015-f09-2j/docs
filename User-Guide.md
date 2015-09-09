@@ -140,7 +140,7 @@ help | Displays a list of all available commands and their formats
 !/done \<ID\> | Marks task \<ID\> as done
 d/display | Shows tasks in chronological order for the current day
 da/display all | Shows all tasks chronologically
-d/display s:\<DONE/DOING\>, d:\<DATE\>, t:\<TIME\>, c:\<CATEGORY\>, p:\<HIGH|MED|LOW\> | Shows tasks of a certain status (s), priority (p) and/or category (c) due on a certain date (d) or time (t)
+d/display s:\<DONE/DOING\>, d:\<DATE\>, t:\<TIME\>, c:\<CATEGORY\>, p:\<HIGH/MED/LOW\> | Shows tasks of a certain status (s), priority (p) and/or category (c) due on a certain date (d) or time (t)
 u/update \<ID\>, \<FIELD TO UPDATE\>: \<UPDATED INFORMATION\> | Updates task \<ID\> 
 -/delete \<ID\> | Deletes the task \<ID\>
 </undo | Undoes the last action (only available after certain actions)
