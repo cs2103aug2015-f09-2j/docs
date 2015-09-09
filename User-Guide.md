@@ -2,6 +2,7 @@ Table of Contents
 =================
 - [Quick Start](#quick)
 - [Features](#feature)
+
 ..* [Adding Events and Tasks](#add)
 ..* [Updating Events and Tasks](#update)
 ..* [Deleting Events and Tasks](#delete)
@@ -9,6 +10,7 @@ Table of Contents
 ..* [Filtering Items](#filter)
 ..* [Searching](#search)
 ..* [Changing the Save Location](#change)
+
 - [Command List](#command)
 
 <a name="quick"></a>Quick Start
@@ -40,7 +42,7 @@ Adding a note will put a * with a number on the right-hand side of the task or e
 
 ![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Note%20Added.png)
 
-Notes can be seen by viewing the task or event (view <EVENT/TASK ID>).
+Notes can be seen by viewing the task or event.
 
 ![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Viewing%20Tasks.png)
 
