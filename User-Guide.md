@@ -2,15 +2,13 @@ Table of Contents
 =================
 - [Quick Start](#quick)
 - [Features](#feature)
-
-..* [Adding Events and Tasks](#add)
-..* [Updating Events and Tasks](#update)
-..* [Deleting Events and Tasks](#delete)
-..* [Undoing/Redoing Actions](#undo)
-..* [Filtering Items](#filter)
-..* [Searching](#search)
-..* [Changing the Save Location](#change)
-
+  - [Adding Events and Tasks](#add)
+  - [Updating Events and Tasks](#update)
+  - [Deleting Events and Tasks](#delete)
+  - [Undoing/Redoing Actions](#undo)
+  - [Filtering Items](#filter)
+  - [Searching](#search)
+  - [Changing the Save Location](#change)
 - [Command List](#command)
 
 <a name="quick"></a>Quick Start
@@ -23,15 +21,16 @@ Table of Contents
 
 3. **Launch Chronos and choose where to save your work**: Double-click Chronos.jar. Chronos needs a place to save your tasks and events, so first-time users will be greeted with the screenshot below. Choose or make a folder for your save location with the pane below or paste the directory on the textbox on top, then press “Choose”. Chronos will then save your to-do list and calendar there.
 
-![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/First%20Screenshot.png)
+   ![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/First%20Screenshot.png)
 
 
 4. **Add a task or an event**: Now that Chronos is properly set up, you can now add tasks and events via the command add.
 
-![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Add%20Screenshot.png)
-After adding, Chronos displays your tasks with an ID so you can access it easily.
+   ![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Add%20Screenshot.png)
 
-![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Added%20Screenshot.png)
+   After adding, Chronos displays your tasks with an ID so you can access it easily.
+
+   ![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Added%20Screenshot.png)
 
 
 5. **Add notes**: If you want to add details to your tasks, type “note”. 
