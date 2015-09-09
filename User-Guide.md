@@ -68,7 +68,7 @@ Table of Contents
 ========
 <a name="add"></a>Adding Events and Tasks
 -----------------------
-You can add a task by typing “add <TASK>, <DATE DUE>, <TIME DUE>”. Adding events is just as simple: Just enter a start time and end time. 
+You can add a task by typing “add /<TASK/>, <DATE DUE>, <TIME DUE>”. Adding events is just as simple: Just enter a start time and end time. 
 
 ![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Add%20Screenshot.png)
 
@@ -146,7 +146,7 @@ u/update <ID>, <FIELD TO UPDATE>: <UPDATED INFORMATION> | Updates task <ID>
 </undo | Undoes the last action (only available after certain actions)
 >/redo | Redoes the last action (available after undoing an action)
 cd | Changes Chronos’ save directory
-cd <DIRECTORY> | Changes Chronos’ save location to <DIRECTORY>
+cd /<DIRECTORY/> | Changes Chronos’ save location to <DIRECTORY>
 ?/search <KEYWORD> | Searches for a particular task containing the “keyword”
 exit | Exits the program
 
