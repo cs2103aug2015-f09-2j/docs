@@ -68,7 +68,7 @@ Table of Contents
 ========
 <a name="add"></a>Adding Events and Tasks
 -----------------------
-You can add a task by typing “add /<TASK/>, <DATE DUE>, <TIME DUE>”. Adding events is just as simple: Just enter a start time and end time. 
+You can add a task by typing “add \<TASK\>, [DATE DUE], \[TIME DUE\]”. Adding events is just as simple: Just enter a start time and end time. 
 
 ![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Add%20Screenshot.png)
 
