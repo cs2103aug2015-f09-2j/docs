@@ -135,12 +135,12 @@ Command (Not Case-Sensitive) | Description
 ------|------
 help | Displays a list of all available commands and their formats 
 +/add \<TASK\>, \<DATE DUE\>, \<TIME DUE\>, p:\<HIGH/MED/LOW\>, c:\<CATEGORY\> | Adds a task with a deadline, priority and category. Note: Priorities and Categories are optional. The default priority is low (LOW).
-+/add \<TASK\>, \<DATE\>, \<START TIME\> to \<END TIME>\, p:\<HIGH|MED|LOW\>, c:\<CATEGORY\> | Adds an event (a task with a start time and end time) with a priority and category
++/add \<TASK\>, \<DATE\>, \<START TIME\> to \<END TIME\>, p:\<HIGH/MED/LOW\>, c:\<CATEGORY\> | Adds an event (a task with a start time and end time) with a priority and category
 */note \<ID\>, \<NOTE CONTENTS\> | Attaches a note to a task or event under \<ID\>
 !/done \<ID\> | Marks task \<ID\> as done
 d/display | Shows tasks in chronological order for the current day
 da/display all | Shows all tasks chronologically
-d/display s:\<DONE|DOING\>, d:\<DATE\>, t:\<TIME\>, c:\<CATEGORY\>, p:\<HIGH|MED|LOW\> | Shows tasks of a certain status (s), priority (p) and/or category (c) due on a certain date (d) or time (t)
+d/display s:\<DONE/DOING\>, d:\<DATE\>, t:\<TIME\>, c:\<CATEGORY\>, p:\<HIGH|MED|LOW\> | Shows tasks of a certain status (s), priority (p) and/or category (c) due on a certain date (d) or time (t)
 u/update \<ID\>, \<FIELD TO UPDATE\>: \<UPDATED INFORMATION\> | Updates task \<ID\> 
 -/delete \<ID\> | Deletes the task \<ID\>
 </undo | Undoes the last action (only available after certain actions)
