@@ -1,15 +1,15 @@
 Table of Contents
 =================
--[Quick Start](#quick)
--[Features](#feature)
-..*[Adding Events and Tasks](#add)
-..*[Updating Events and Tasks](#update)
-..*[Deleting Events and Tasks](#delete)
-..*[Undoing/Redoing Actions](#undo)
-..*[Filtering Items](#filter)
-..*[Searching](#search)
-..*[Changing the Save Location](#change)
--[Command List](#command)
+- [Quick Start](#quick)
+- [Features](#feature)
+..* [Adding Events and Tasks](#add)
+..* [Updating Events and Tasks](#update)
+..* [Deleting Events and Tasks](#delete)
+..* [Undoing/Redoing Actions](#undo)
+..* [Filtering Items](#filter)
+..* [Searching](#search)
+..* [Changing the Save Location](#change)
+- [Command List](#command)
 
 <a name="quick"></a>Quick Start
 ===========
