@@ -35,26 +35,26 @@ Table of Contents
 
 5. **Add notes**: If you want to add details to your tasks, type “note”. 
 
-![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Adding%20Notes.png)
+   ![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Adding%20Notes.png)
 
-Adding a note will put a * with a number on the right-hand side of the task or event like the screenshot below:
+   Adding a note will put a * with a number on the right-hand side of the task or event like the screenshot below:
+ 
+   ![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Note%20Added.png)
 
-![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Note%20Added.png)
+   Notes can be seen by viewing the task or event.
 
-Notes can be seen by viewing the task or event.
+   ![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Viewing%20Tasks.png)
 
-![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Viewing%20Tasks.png)
-
-You can go back to the task list by typing “d”. 
+   You can go back to the task list by typing “d”. 
 
 
 6. **Finish a task**: Once you’ve finished a task, mark it as done by typing “done” with the task’s ID.
 
-![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Completing%20Tasks.png)
+   ![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Completing%20Tasks.png)
 
-Completed tasks are shown in gray.
+   Completed tasks are shown in gray.
 
-![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/After%20Task%20Completion.png)
+   ![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/After%20Task%20Completion.png)
 
 
 7. **Try out other commands**: If you want to know more about Chronos’ commands, refer to the illustrated Features section below.
@@ -62,7 +62,7 @@ Completed tasks are shown in gray.
 
 8. **Launching Chronos again**: When you start Chronos again, Chronos will load all your events and tasks due for the current day.
 
-![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Sample%20Screenshot.png)
+   ![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/User-Guide/Sample%20Screenshot.png)
 
 <a name="feature"></a>Features
 ========
