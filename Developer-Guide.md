@@ -27,10 +27,10 @@ Table of Contents
 ![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/Developer-Guide/architecture.png)
 
 Chronos consists of the following components:
-**- [GUI](#gui)**: Handles user interaction
-**- [Logic](#logic)**: Executes user commands and mediates between GUI and Storage 
-**- [Parser](#parser)**: Manipulates strings and handles JSON conversion
-**- [Storage](#sto)**: Manages data operations
+- **[GUI](#gui)**: Handles user interaction
+- **[Logic](#logic)**: Executes user commands and mediates between GUI and Storage 
+- **[Parser](#parser)**: Manipulates strings and handles JSON conversion
+- **[Storage](#sto)**: Manages data operations
 
 For reference, important methods mentioned in the guide are described in detail in **[Notable Methods from APIs](#api)**.
 
