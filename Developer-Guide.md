@@ -105,7 +105,7 @@ Chronos obeys the following [Java coding standard](https://docs.google.com/docum
 
 <a name="test"></a>Testing
 ---------------------------
-Chronos uses JUnit to perform unit tests on the components. Tests are placed in the **src/test** folder and storage files for testing are placed in the **src/test/testFiles** folder. 
+Chronos uses JUnit to perform unit tests on the components. Tests are placed in the **[src/test](https://github.com/cs2103aug2015-f09-2j/main/tree/master/Chronos/src/test)** folder and storage files for testing are placed in the **[src/test/testFiles](https://github.com/cs2103aug2015-f09-2j/main/tree/master/Chronos/src/test/testFiles)** folder. 
 
 <a name="api"></a>Notable Methods from APIs
 ============================================
