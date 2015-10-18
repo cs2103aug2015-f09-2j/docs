@@ -16,21 +16,21 @@ Table of Contents
   - [Eclipse Tools](#eclipse)
   - [Coding Convention](#code)
   - [Testing](#test)
--[Notable Methods from APIs](#api)
-  -[GUI component](#guiapi)
-  -[Logic component](#logicapi)
-  -[Parser component](#parserapi)
-  -[Storage component](#storageapi)
+- [Notable Methods from APIs](#api)
+  - [GUI component](#guiapi)
+  - [Logic component](#logicapi)
+  - [Parser component](#parserapi)
+  - [Storage component](#storageapi)
 
 <a name="archi"></a>Architecture
 =================================
 ![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/Developer-Guide/architecture.png)
 
 Chronos consists of the following components:
-**-[GUI](#gui)**: Handles user interaction
-**-[Logic](#logic)**: Executes user commands and mediates between GUI and Storage 
-**-[Parser](#parser)**: Manipulates strings and handles JSON conversion
-**-[Storage](#sto)**: Manages data operations
+**- [GUI](#gui)**: Handles user interaction
+**- [Logic](#logic)**: Executes user commands and mediates between GUI and Storage 
+**- [Parser](#parser)**: Manipulates strings and handles JSON conversion
+**- [Storage](#sto)**: Manages data operations
 
 For reference, important methods mentioned in the guide are described in detail in **[Notable Methods from APIs](#api)**.
 
@@ -75,8 +75,8 @@ Task is the Chronos’ main entity class, and is used by both Logic and GUI. It 
 ![alt text](https://github.com/cs2103aug2015-f09-2j/docs/blob/master/Images/Developer-Guide/parser.png)
 
 Parser is mainly in charge of String manipulation and class conversions involving `String`s and `JSON` from Logic. It is also responsible for generating task ID’s. It handles the following conversions:
--String-Task: `createItem(String)`
--Task-JSON: `convertToTaskArray(JSONArray)`, `retrieveTask(String, JSONArray)`
+- String-Task: `createItem(String)`
+- Task-JSON: `convertToTaskArray(JSONArray)`, `retrieveTask(String, JSONArray)`
 
 <a name="sto"></a>Storage
 ========================
@@ -88,16 +88,16 @@ Storage's main functions are to read from and write to the text file. At runtime
 ===================================
 <a name="deve"></a>Developement Environment
 ------------------------------------
--[JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) (8u60 or greater)
--[Eclipse](https://eclipse.org/downloads/) (MARS)
--[Git](https://git-scm.com/downloads) (if you don't want to use EGit)
+- [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) (8u60 or greater)
+- [Eclipse](https://eclipse.org/downloads/) (MARS)
+- [Git](https://git-scm.com/downloads) (if you don't want to use EGit)
 
 <a name="eclipse"></a>Eclipse Tools
 ----------------------
 Chronos makes use of the following tools with Eclipse. They can be downloaded from the  web or the Eclipse marketplace.
--[e(fx)clipse](http://www.eclipse.org/efxclipse/install.html)
--[EGit](http://www.eclipse.org/egit/download/)
--JUnit: already included in Eclipse
+- [e(fx)clipse](http://www.eclipse.org/efxclipse/install.html)
+- [EGit](http://www.eclipse.org/egit/download/)
+- JUnit: already included in Eclipse
 
 <a name="code"></a>Coding Convention
 ------------------------
